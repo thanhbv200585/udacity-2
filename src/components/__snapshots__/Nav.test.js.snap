@@ -1,5 +1,65 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`Nav Component Tests should render the Nav component 1`] = `
+<div>
+  <nav
+    class="flex justify-between items-center gap-3 h-12"
+  >
+    <ul
+      class="flex gap-4"
+    >
+      <li>
+        <a
+          aria-current="page"
+          class="transition-all relative after:absolute after:bottom-[-2px] after:left-0 after:w-full after:h-0.5 after:transition-all hover:text-blue-500 hover:after:bg-blue-400 text-blue-500 after:bg-blue-400"
+          href="/"
+        >
+          Home
+        </a>
+      </li>
+      <li>
+        <a
+          class="transition-all relative after:absolute after:bottom-[-2px] after:left-0 after:w-full after:h-0.5 after:transition-all hover:text-blue-500 hover:after:bg-blue-400 after:bg-transparent"
+          href="/add"
+        >
+          Add Poll
+        </a>
+      </li>
+      <li>
+        <a
+          class="transition-all relative after:absolute after:bottom-[-2px] after:left-0 after:w-full after:h-0.5 after:transition-all hover:text-blue-500 hover:after:bg-blue-400 after:bg-transparent"
+          href="/leaderboard"
+        >
+          Leader Board
+        </a>
+      </li>
+    </ul>
+    <ul
+      class="flex items-center gap-4"
+    >
+      <li>
+        <a
+          class="hover:text-blue-500 hover:after:bg-blue-400"
+          href="/"
+        >
+          Logout
+        </a>
+      </li>
+      <li
+        class="flex items-center gap-2"
+      >
+        <img
+          alt="avatar of undefined"
+          class="w-8 h-8 rounded-full"
+          hidden=""
+        />
+        <span />
+      </li>
+    </ul>
+  </nav>
+</div>
+`;
+
 exports[`Nav is expected to render the Nav component 1`] = `
 Object {
   "asFragment": [Function],

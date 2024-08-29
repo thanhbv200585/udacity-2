@@ -26,7 +26,7 @@ describe("Nav Component Tests", () => {
         avatarURL: "https://www.shutterstock.com/image-vector/young-smiling-man-adam-avatar-600w-2107967969.jpg",
       },
     };
-
+  
     await store.dispatch(receiveUsers(mockUser));
     await store.dispatch(setAuthedUser("mtsamis"));
     
@@ -37,8 +37,8 @@ describe("Nav Component Tests", () => {
         </Router>
       </Provider>
     );
-
+  
     expect(screen.getByText("Mike Tsamis")).toBeInTheDocument();
-    expect(screen.getByAltText("Mike Tsamis's avatar")).toBeInTheDocument();
-  });
+    expect(screen.getByAltText("avatar of Mike Tsamis")).toBeInTheDocument(); // Updated alt text here
+  });  
 });

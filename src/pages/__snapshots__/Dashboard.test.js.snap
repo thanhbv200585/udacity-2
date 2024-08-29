@@ -1,0 +1,744 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dashboard Is expected to load the new and answered polls. 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="max-w-3xl w-full mx-auto mt-6"
+      >
+        <div
+          class="flex items-stretch overflow-hidden"
+        >
+          <button
+            class="flex-1 p-4 transition-all border border-solid border-[--divider] rounded-tl-md rounded-tr-md  border-b-0 bg-white"
+          >
+            New Questions
+          </button>
+          <button
+            class="flex-1 p-4 transition-all border border-solid border-[--divider] rounded-tl-md rounded-tr-md  bg-[--gray-40]"
+          >
+            Answered Questions
+          </button>
+        </div>
+        <div
+          class="p-4 border border-solid border-[--divider] border-t-0 rounded-bl-md rounded-br-md"
+        >
+          <div>
+            <ul
+              class="flex flex-col gap-4"
+            >
+              <li>
+                <div
+                  class="shadow-md"
+                >
+                  <p
+                    class="border border-solid border-[--divider] rounded-tl-md rounded-tr-md p-3 bg-[--gray-40] border-t-2 border-t-yellow-700"
+                  >
+                    Mike Tsamis
+                  </p>
+                  <div
+                    class="border border-solid border-[--divider] border-t-0 p-3 rounded-bl-md rounded-br-md flex flex items-stretch gap-4"
+                  >
+                    <img
+                      alt="Avatar of Mike Tsamis"
+                      class="w-32 h-32"
+                      src="https://avatar.iran.liara.run/username?username=Mike+Tsamis"
+                    />
+                    <span
+                      class="w-px bg-[--divider]"
+                    />
+                    <div
+                      class="flex-1 flex flex-col"
+                    >
+                      <h2
+                        class="font-semibold"
+                      >
+                        Would you rather
+                      </h2>
+                      <div
+                        class="flex-1 flex flex-col justify-center items-center"
+                      >
+                        <p>
+                          deploy to production once every two weeks
+                        </p>
+                        <span>
+                          or...
+                        </span>
+                      </div>
+                      <a
+                        href="/questions/xj352vofupe1dqz9emx13r"
+                      >
+                        <button
+                          class="text-white focus:outline-none w-full focus:ring-4 font-medium rounded-lg text-sm px-5 py-2.5 disabled:bg-gray-500 bg-yellow-700 hover:bg-yellow-800 focus:ring-yellow-400"
+                          type="button"
+                        >
+                          Answer Poll
+                        </button>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div
+                  class="shadow-md"
+                >
+                  <p
+                    class="border border-solid border-[--divider] rounded-tl-md rounded-tr-md p-3 bg-[--gray-40] border-t-2 border-t-yellow-700"
+                  >
+                    Tyler McGinnis
+                  </p>
+                  <div
+                    class="border border-solid border-[--divider] border-t-0 p-3 rounded-bl-md rounded-br-md flex flex items-stretch gap-4"
+                  >
+                    <img
+                      alt="Avatar of Tyler McGinnis"
+                      class="w-32 h-32"
+                      src="https://avatar.iran.liara.run/username?username=Tyler+McGinnis"
+                    />
+                    <span
+                      class="w-px bg-[--divider]"
+                    />
+                    <div
+                      class="flex-1 flex flex-col"
+                    >
+                      <h2
+                        class="font-semibold"
+                      >
+                        Would you rather
+                      </h2>
+                      <div
+                        class="flex-1 flex flex-col justify-center items-center"
+                      >
+                        <p>
+                          take a course on ReactJS
+                        </p>
+                        <span>
+                          or...
+                        </span>
+                      </div>
+                      <a
+                        href="/questions/vthrdm985a262al8qx3do"
+                      >
+                        <button
+                          class="text-white focus:outline-none w-full focus:ring-4 font-medium rounded-lg text-sm px-5 py-2.5 disabled:bg-gray-500 bg-yellow-700 hover:bg-yellow-800 focus:ring-yellow-400"
+                          type="button"
+                        >
+                          Answer Poll
+                        </button>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div
+                  class="shadow-md"
+                >
+                  <p
+                    class="border border-solid border-[--divider] rounded-tl-md rounded-tr-md p-3 bg-[--gray-40] border-t-2 border-t-yellow-700"
+                  >
+                    Sarah Edo
+                  </p>
+                  <div
+                    class="border border-solid border-[--divider] border-t-0 p-3 rounded-bl-md rounded-br-md flex flex items-stretch gap-4"
+                  >
+                    <img
+                      alt="Avatar of Sarah Edo"
+                      class="w-32 h-32"
+                      src="https://avatar.iran.liara.run/username?username=Sarah+Edo"
+                    />
+                    <span
+                      class="w-px bg-[--divider]"
+                    />
+                    <div
+                      class="flex-1 flex flex-col"
+                    >
+                      <h2
+                        class="font-semibold"
+                      >
+                        Would you rather
+                      </h2>
+                      <div
+                        class="flex-1 flex flex-col justify-center items-center"
+                      >
+                        <p>
+                          conduct a release retrospective 1 week after a release
+                        </p>
+                        <span>
+                          or...
+                        </span>
+                      </div>
+                      <a
+                        href="/questions/am8ehyc8byjqgar0jgpub9"
+                      >
+                        <button
+                          class="text-white focus:outline-none w-full focus:ring-4 font-medium rounded-lg text-sm px-5 py-2.5 disabled:bg-gray-500 bg-yellow-700 hover:bg-yellow-800 focus:ring-yellow-400"
+                          type="button"
+                        >
+                          Answer Poll
+                        </button>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div
+                  class="shadow-md"
+                >
+                  <p
+                    class="border border-solid border-[--divider] rounded-tl-md rounded-tr-md p-3 bg-[--gray-40] border-t-2 border-t-yellow-700"
+                  >
+                    Tyler McGinnis
+                  </p>
+                  <div
+                    class="border border-solid border-[--divider] border-t-0 p-3 rounded-bl-md rounded-br-md flex flex items-stretch gap-4"
+                  >
+                    <img
+                      alt="Avatar of Tyler McGinnis"
+                      class="w-32 h-32"
+                      src="https://avatar.iran.liara.run/username?username=Tyler+McGinnis"
+                    />
+                    <span
+                      class="w-px bg-[--divider]"
+                    />
+                    <div
+                      class="flex-1 flex flex-col"
+                    >
+                      <h2
+                        class="font-semibold"
+                      >
+                        Would you rather
+                      </h2>
+                      <div
+                        class="flex-1 flex flex-col justify-center items-center"
+                      >
+                        <p>
+                          have code reviews conducted by peers
+                        </p>
+                        <span>
+                          or...
+                        </span>
+                      </div>
+                      <a
+                        href="/questions/loxhs1bqm25b708cmbf3g"
+                      >
+                        <button
+                          class="text-white focus:outline-none w-full focus:ring-4 font-medium rounded-lg text-sm px-5 py-2.5 disabled:bg-gray-500 bg-yellow-700 hover:bg-yellow-800 focus:ring-yellow-400"
+                          type="button"
+                        >
+                          Answer Poll
+                        </button>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div
+                  class="shadow-md"
+                >
+                  <p
+                    class="border border-solid border-[--divider] rounded-tl-md rounded-tr-md p-3 bg-[--gray-40] border-t-2 border-t-yellow-700"
+                  >
+                    Mike Tsamis
+                  </p>
+                  <div
+                    class="border border-solid border-[--divider] border-t-0 p-3 rounded-bl-md rounded-br-md flex flex items-stretch gap-4"
+                  >
+                    <img
+                      alt="Avatar of Mike Tsamis"
+                      class="w-32 h-32"
+                      src="https://avatar.iran.liara.run/username?username=Mike+Tsamis"
+                    />
+                    <span
+                      class="w-px bg-[--divider]"
+                    />
+                    <div
+                      class="flex-1 flex flex-col"
+                    >
+                      <h2
+                        class="font-semibold"
+                      >
+                        Would you rather
+                      </h2>
+                      <div
+                        class="flex-1 flex flex-col justify-center items-center"
+                      >
+                        <p>
+                          hire more frontend developers
+                        </p>
+                        <span>
+                          or...
+                        </span>
+                      </div>
+                      <a
+                        href="/questions/6ni6ok3ym7mf1p33lnez"
+                      >
+                        <button
+                          class="text-white focus:outline-none w-full focus:ring-4 font-medium rounded-lg text-sm px-5 py-2.5 disabled:bg-gray-500 bg-yellow-700 hover:bg-yellow-800 focus:ring-yellow-400"
+                          type="button"
+                        >
+                          Answer Poll
+                        </button>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div
+                  class="shadow-md"
+                >
+                  <p
+                    class="border border-solid border-[--divider] rounded-tl-md rounded-tr-md p-3 bg-[--gray-40] border-t-2 border-t-yellow-700"
+                  >
+                    Sarah Edo
+                  </p>
+                  <div
+                    class="border border-solid border-[--divider] border-t-0 p-3 rounded-bl-md rounded-br-md flex flex items-stretch gap-4"
+                  >
+                    <img
+                      alt="Avatar of Sarah Edo"
+                      class="w-32 h-32"
+                      src="https://avatar.iran.liara.run/username?username=Sarah+Edo"
+                    />
+                    <span
+                      class="w-px bg-[--divider]"
+                    />
+                    <div
+                      class="flex-1 flex flex-col"
+                    >
+                      <h2
+                        class="font-semibold"
+                      >
+                        Would you rather
+                      </h2>
+                      <div
+                        class="flex-1 flex flex-col justify-center items-center"
+                      >
+                        <p>
+                          Build our new application with Javascript
+                        </p>
+                        <span>
+                          or...
+                        </span>
+                      </div>
+                      <a
+                        href="/questions/8xf0y6ziyjabvozdd253nd"
+                      >
+                        <button
+                          class="text-white focus:outline-none w-full focus:ring-4 font-medium rounded-lg text-sm px-5 py-2.5 disabled:bg-gray-500 bg-yellow-700 hover:bg-yellow-800 focus:ring-yellow-400"
+                          type="button"
+                        >
+                          Answer Poll
+                        </button>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="max-w-3xl w-full mx-auto mt-6"
+    >
+      <div
+        class="flex items-stretch overflow-hidden"
+      >
+        <button
+          class="flex-1 p-4 transition-all border border-solid border-[--divider] rounded-tl-md rounded-tr-md  border-b-0 bg-white"
+        >
+          New Questions
+        </button>
+        <button
+          class="flex-1 p-4 transition-all border border-solid border-[--divider] rounded-tl-md rounded-tr-md  bg-[--gray-40]"
+        >
+          Answered Questions
+        </button>
+      </div>
+      <div
+        class="p-4 border border-solid border-[--divider] border-t-0 rounded-bl-md rounded-br-md"
+      >
+        <div>
+          <ul
+            class="flex flex-col gap-4"
+          >
+            <li>
+              <div
+                class="shadow-md"
+              >
+                <p
+                  class="border border-solid border-[--divider] rounded-tl-md rounded-tr-md p-3 bg-[--gray-40] border-t-2 border-t-yellow-700"
+                >
+                  Mike Tsamis
+                </p>
+                <div
+                  class="border border-solid border-[--divider] border-t-0 p-3 rounded-bl-md rounded-br-md flex flex items-stretch gap-4"
+                >
+                  <img
+                    alt="Avatar of Mike Tsamis"
+                    class="w-32 h-32"
+                    src="https://avatar.iran.liara.run/username?username=Mike+Tsamis"
+                  />
+                  <span
+                    class="w-px bg-[--divider]"
+                  />
+                  <div
+                    class="flex-1 flex flex-col"
+                  >
+                    <h2
+                      class="font-semibold"
+                    >
+                      Would you rather
+                    </h2>
+                    <div
+                      class="flex-1 flex flex-col justify-center items-center"
+                    >
+                      <p>
+                        deploy to production once every two weeks
+                      </p>
+                      <span>
+                        or...
+                      </span>
+                    </div>
+                    <a
+                      href="/questions/xj352vofupe1dqz9emx13r"
+                    >
+                      <button
+                        class="text-white focus:outline-none w-full focus:ring-4 font-medium rounded-lg text-sm px-5 py-2.5 disabled:bg-gray-500 bg-yellow-700 hover:bg-yellow-800 focus:ring-yellow-400"
+                        type="button"
+                      >
+                        Answer Poll
+                      </button>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div
+                class="shadow-md"
+              >
+                <p
+                  class="border border-solid border-[--divider] rounded-tl-md rounded-tr-md p-3 bg-[--gray-40] border-t-2 border-t-yellow-700"
+                >
+                  Tyler McGinnis
+                </p>
+                <div
+                  class="border border-solid border-[--divider] border-t-0 p-3 rounded-bl-md rounded-br-md flex flex items-stretch gap-4"
+                >
+                  <img
+                    alt="Avatar of Tyler McGinnis"
+                    class="w-32 h-32"
+                    src="https://avatar.iran.liara.run/username?username=Tyler+McGinnis"
+                  />
+                  <span
+                    class="w-px bg-[--divider]"
+                  />
+                  <div
+                    class="flex-1 flex flex-col"
+                  >
+                    <h2
+                      class="font-semibold"
+                    >
+                      Would you rather
+                    </h2>
+                    <div
+                      class="flex-1 flex flex-col justify-center items-center"
+                    >
+                      <p>
+                        take a course on ReactJS
+                      </p>
+                      <span>
+                        or...
+                      </span>
+                    </div>
+                    <a
+                      href="/questions/vthrdm985a262al8qx3do"
+                    >
+                      <button
+                        class="text-white focus:outline-none w-full focus:ring-4 font-medium rounded-lg text-sm px-5 py-2.5 disabled:bg-gray-500 bg-yellow-700 hover:bg-yellow-800 focus:ring-yellow-400"
+                        type="button"
+                      >
+                        Answer Poll
+                      </button>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div
+                class="shadow-md"
+              >
+                <p
+                  class="border border-solid border-[--divider] rounded-tl-md rounded-tr-md p-3 bg-[--gray-40] border-t-2 border-t-yellow-700"
+                >
+                  Sarah Edo
+                </p>
+                <div
+                  class="border border-solid border-[--divider] border-t-0 p-3 rounded-bl-md rounded-br-md flex flex items-stretch gap-4"
+                >
+                  <img
+                    alt="Avatar of Sarah Edo"
+                    class="w-32 h-32"
+                    src="https://avatar.iran.liara.run/username?username=Sarah+Edo"
+                  />
+                  <span
+                    class="w-px bg-[--divider]"
+                  />
+                  <div
+                    class="flex-1 flex flex-col"
+                  >
+                    <h2
+                      class="font-semibold"
+                    >
+                      Would you rather
+                    </h2>
+                    <div
+                      class="flex-1 flex flex-col justify-center items-center"
+                    >
+                      <p>
+                        conduct a release retrospective 1 week after a release
+                      </p>
+                      <span>
+                        or...
+                      </span>
+                    </div>
+                    <a
+                      href="/questions/am8ehyc8byjqgar0jgpub9"
+                    >
+                      <button
+                        class="text-white focus:outline-none w-full focus:ring-4 font-medium rounded-lg text-sm px-5 py-2.5 disabled:bg-gray-500 bg-yellow-700 hover:bg-yellow-800 focus:ring-yellow-400"
+                        type="button"
+                      >
+                        Answer Poll
+                      </button>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div
+                class="shadow-md"
+              >
+                <p
+                  class="border border-solid border-[--divider] rounded-tl-md rounded-tr-md p-3 bg-[--gray-40] border-t-2 border-t-yellow-700"
+                >
+                  Tyler McGinnis
+                </p>
+                <div
+                  class="border border-solid border-[--divider] border-t-0 p-3 rounded-bl-md rounded-br-md flex flex items-stretch gap-4"
+                >
+                  <img
+                    alt="Avatar of Tyler McGinnis"
+                    class="w-32 h-32"
+                    src="https://avatar.iran.liara.run/username?username=Tyler+McGinnis"
+                  />
+                  <span
+                    class="w-px bg-[--divider]"
+                  />
+                  <div
+                    class="flex-1 flex flex-col"
+                  >
+                    <h2
+                      class="font-semibold"
+                    >
+                      Would you rather
+                    </h2>
+                    <div
+                      class="flex-1 flex flex-col justify-center items-center"
+                    >
+                      <p>
+                        have code reviews conducted by peers
+                      </p>
+                      <span>
+                        or...
+                      </span>
+                    </div>
+                    <a
+                      href="/questions/loxhs1bqm25b708cmbf3g"
+                    >
+                      <button
+                        class="text-white focus:outline-none w-full focus:ring-4 font-medium rounded-lg text-sm px-5 py-2.5 disabled:bg-gray-500 bg-yellow-700 hover:bg-yellow-800 focus:ring-yellow-400"
+                        type="button"
+                      >
+                        Answer Poll
+                      </button>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div
+                class="shadow-md"
+              >
+                <p
+                  class="border border-solid border-[--divider] rounded-tl-md rounded-tr-md p-3 bg-[--gray-40] border-t-2 border-t-yellow-700"
+                >
+                  Mike Tsamis
+                </p>
+                <div
+                  class="border border-solid border-[--divider] border-t-0 p-3 rounded-bl-md rounded-br-md flex flex items-stretch gap-4"
+                >
+                  <img
+                    alt="Avatar of Mike Tsamis"
+                    class="w-32 h-32"
+                    src="https://avatar.iran.liara.run/username?username=Mike+Tsamis"
+                  />
+                  <span
+                    class="w-px bg-[--divider]"
+                  />
+                  <div
+                    class="flex-1 flex flex-col"
+                  >
+                    <h2
+                      class="font-semibold"
+                    >
+                      Would you rather
+                    </h2>
+                    <div
+                      class="flex-1 flex flex-col justify-center items-center"
+                    >
+                      <p>
+                        hire more frontend developers
+                      </p>
+                      <span>
+                        or...
+                      </span>
+                    </div>
+                    <a
+                      href="/questions/6ni6ok3ym7mf1p33lnez"
+                    >
+                      <button
+                        class="text-white focus:outline-none w-full focus:ring-4 font-medium rounded-lg text-sm px-5 py-2.5 disabled:bg-gray-500 bg-yellow-700 hover:bg-yellow-800 focus:ring-yellow-400"
+                        type="button"
+                      >
+                        Answer Poll
+                      </button>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div
+                class="shadow-md"
+              >
+                <p
+                  class="border border-solid border-[--divider] rounded-tl-md rounded-tr-md p-3 bg-[--gray-40] border-t-2 border-t-yellow-700"
+                >
+                  Sarah Edo
+                </p>
+                <div
+                  class="border border-solid border-[--divider] border-t-0 p-3 rounded-bl-md rounded-br-md flex flex items-stretch gap-4"
+                >
+                  <img
+                    alt="Avatar of Sarah Edo"
+                    class="w-32 h-32"
+                    src="https://avatar.iran.liara.run/username?username=Sarah+Edo"
+                  />
+                  <span
+                    class="w-px bg-[--divider]"
+                  />
+                  <div
+                    class="flex-1 flex flex-col"
+                  >
+                    <h2
+                      class="font-semibold"
+                    >
+                      Would you rather
+                    </h2>
+                    <div
+                      class="flex-1 flex flex-col justify-center items-center"
+                    >
+                      <p>
+                        Build our new application with Javascript
+                      </p>
+                      <span>
+                        or...
+                      </span>
+                    </div>
+                    <a
+                      href="/questions/8xf0y6ziyjabvozdd253nd"
+                    >
+                      <button
+                        class="text-white focus:outline-none w-full focus:ring-4 font-medium rounded-lg text-sm px-5 py-2.5 disabled:bg-gray-500 bg-yellow-700 hover:bg-yellow-800 focus:ring-yellow-400"
+                        type="button"
+                      >
+                        Answer Poll
+                      </button>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

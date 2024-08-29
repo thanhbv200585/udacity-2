@@ -1,0 +1,156 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App is expected to render the component 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        style="direction: ltr;"
+      >
+        <div
+          class=""
+          style="width: 0%; transition: width 800ms linear 0s; will-change: width, opacity; height: 3px; background-color: red; position: absolute; opacity: 0;"
+        />
+        <div
+          style="display: table; clear: both;"
+        />
+      </div>
+      <div
+        class="flex items-center justify-center p-3 h-[100vh] bg-slate-600"
+      >
+        <form
+          class="max-w-md w-full p-4 bg-white rounded-lg flex flex-col gap-4"
+        >
+          <h1
+            class="text-center uppercase text-2xl font-bold"
+          >
+            Login
+          </h1>
+          <input
+            class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 focus-within:outline-none"
+            id="username"
+            name="username"
+            placeholder="Enter username"
+            type="text"
+            value="sarahedo"
+          />
+          <input
+            class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 focus-within:outline-none"
+            id="password"
+            name="password"
+            placeholder="Enter password"
+            type="Password"
+            value="password123"
+          />
+          <button
+            class="text-white focus:outline-none w-full focus:ring-4 font-medium rounded-lg text-sm px-5 py-2.5 disabled:bg-gray-500 bg-blue-700 hover:bg-blue-800 focus:ring-blue-300"
+            type="submit"
+          >
+            Login
+          </button>
+        </form>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      style="direction: ltr;"
+    >
+      <div
+        class=""
+        style="width: 0%; transition: width 800ms linear 0s; will-change: width, opacity; height: 3px; background-color: red; position: absolute; opacity: 0;"
+      />
+      <div
+        style="display: table; clear: both;"
+      />
+    </div>
+    <div
+      class="flex items-center justify-center p-3 h-[100vh] bg-slate-600"
+    >
+      <form
+        class="max-w-md w-full p-4 bg-white rounded-lg flex flex-col gap-4"
+      >
+        <h1
+          class="text-center uppercase text-2xl font-bold"
+        >
+          Login
+        </h1>
+        <input
+          class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 focus-within:outline-none"
+          id="username"
+          name="username"
+          placeholder="Enter username"
+          type="text"
+          value="sarahedo"
+        />
+        <input
+          class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 focus-within:outline-none"
+          id="password"
+          name="password"
+          placeholder="Enter password"
+          type="Password"
+          value="password123"
+        />
+        <button
+          class="text-white focus:outline-none w-full focus:ring-4 font-medium rounded-lg text-sm px-5 py-2.5 disabled:bg-gray-500 bg-blue-700 hover:bg-blue-800 focus:ring-blue-300"
+          type="submit"
+        >
+          Login
+        </button>
+      </form>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
